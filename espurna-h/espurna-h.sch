@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.7.0">
+<eagle version="8.0.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -5695,7 +5695,7 @@ Source: &lt;a href="http://www.vishay.com/docs/83673/sfh618.pdf"&gt; Data sheet 
 </libraries>
 <attributes>
 <attribute name="PROJECT_AUTHOR" value="tinkerman.cat &lt;xose.perez@gmail.com&gt;"/>
-<attribute name="PROJECT_LICENSE" value="MIT"/>
+<attribute name="PROJECT_LICENSE" value="CC-BY-SA 3.0"/>
 <attribute name="PROJECT_NAME" value="ESPURNA-H"/>
 <attribute name="PROJECT_VERSION" value="0.6.20170212"/>
 </attributes>
