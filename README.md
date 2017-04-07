@@ -25,7 +25,7 @@ It features:
 ## Bill of materials
 
 |Item|Buy|Required|Optional <sup>H</sup>|CPU <sup>units</sup>|Total|Total <sup>H</sup>|
-|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Tinkerman ESPurna-H PCB|[OSH Park](https://oshpark.com/shared_projects/CrcD9Wsy)|1||6.50€ <sup>3</sup>|6.50€||
 |Ai-Thinker ESP12F|[Aliexpress](http://s.click.aliexpress.com/e/mUZjemI) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FESP8266-Remote-Serial-Port-WIFI-Transceiver-Wireless-Module-Esp-12F-AP-STA-%2F272408386985%3Fhash%3Ditem3f6cce1da9%3Ag%3ArywAAOSwZJBX-7RV)|1||2.10€ <sup>5</sup>|2.10€||
 |Hi-Link HLK-PM01|[Aliexpress](http://s.click.aliexpress.com/e/yzVBurN) / [Ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338044841&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FHousehold-Switch-Hlk-Pm01-Ac-Dc-220V-To-5V-Step-Down-Power-Supply-Module-New-I-F-%2F262910032033%3Fhash%3Ditem3d36a8b8a1%3Ag%3A8gwAAOSwal5YH5sM)|1||2.16€ <sup>5</sup>|2.16€||
