@@ -43,8 +43,8 @@ It features:
 |100nF 0805 ceramic capacitor||2|2|0.01€ <sup>100</sup>|0.02€|0.02€|
 |1uF 0805 ceramic capacitor|||1|0.01€ <sup>100</sup>||0.01€|
 |10uF 0805 tantalum capacitor||2||0.01€ <sup>100</sup>|0.02€||
-|0 Ohm 2010 resistor|[Aliexpress](http://s.click.aliexpress.com/e/BMRz7yF)||1|0.03€ <sup>200</sup>||0.03€|
-|0.001 2512 Ohm resistor|||1|0.19€ <sup>20</sup>||0.19€|
+|0 Ohm 1206 resistor|[Aliexpress](http://s.click.aliexpress.com/e/jEAqfqb)||1|0.01€ <sup>500</sup>||0.01€|
+|0.001 2512 Ohm resistor|[Aliexpress](http://s.click.aliexpress.com/e/fIaA6QB)||1|0.03€ <sup>10</sup>||0.03€|
 |22Ohm 0805 resistor||1||0.01€ <sup>100</sup>|0.01€||
 |220Ohm 0805 resistor||1||0.01€ <sup>100</sup>|0.01€||
 |300Ohm 0805 resistor||1||0.01€ <sup>100</sup>|0.01€||
@@ -55,10 +55,11 @@ It features:
 |2 positions 5mm screw terminal|[Aliexpress](http://s.click.aliexpress.com/e/a2fqnM7)|1||0.06€ <sup>100</sup>|0.06€||
 |3 positions 5mm screw terminal|[Aliexpress](http://s.click.aliexpress.com/e/Vjaa2RB)|1||0.07€ <sup>100</sup>|0.07€||
 |5 position male header||1||0.01€ <sup>100</sup>|0.01€||
-|**Total**|||||12.02€|1.17€|
+|**Total**|||||11.98€|0.99€|
 
 * (H) Optional, only required for power monitor.
 * (units) Minimum quantity for the stated price.
+* Prices are based on the cheapest option, usually Aliexpress.
 * Check the schematic (image or eagle file) for relation between parts and values.
 
 ## Firmware
