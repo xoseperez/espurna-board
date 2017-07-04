@@ -1,5 +1,7 @@
 *.s#?
 *.b#?
+*.s$?
+*.b$?
 .modgit
 firmware*
 *.gch
