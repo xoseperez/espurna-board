@@ -50,10 +50,10 @@ module base() {
             circle(1, $fn=50);
         }
         
-        // headers panel
-        translate([-19,27]) {
+        // headers panel v2
+        translate([-19,22.5]) {
             minkowski() {
-                square([8,1], false);
+                square([11,5], false);
                 circle(1, $fn=50);
             }
         }
@@ -78,7 +78,7 @@ module pastilla() {
 module 3d() {
     
     thickness = 1;
-    pastilla_vector = sqrt(18.6*18.6*2);
+    pastilla_vector = sqrt(19.3*19.3*2);
     
     union() {
 
