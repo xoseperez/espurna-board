@@ -5697,7 +5697,7 @@ Source: &lt;a href="http://www.vishay.com/docs/83673/sfh618.pdf"&gt; Data sheet 
 <attribute name="PROJECT_AUTHOR" value="tinkerman.cat &lt;xose.perez@gmail.com&gt;"/>
 <attribute name="PROJECT_LICENSE" value="CC-BY-SA 3.0"/>
 <attribute name="PROJECT_NAME" value="ESPURNA-H"/>
-<attribute name="PROJECT_VERSION" value="0.6.20170212"/>
+<attribute name="PROJECT_VERSION" value="0.7.20170419"/>
 </attributes>
 <variantdefs>
 </variantdefs>
@@ -6168,9 +6168,9 @@ Source: &lt;a href="http://www.vishay.com/docs/83673/sfh618.pdf"&gt; Data sheet 
 <label x="226.06" y="154.94" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="R27" gate="G$1" pin="2"/>
-<wire x1="233.68" y1="96.52" x2="226.06" y2="96.52" width="0.1524" layer="91"/>
-<label x="226.06" y="96.52" size="1.778" layer="95"/>
+<pinref part="Q4" gate="G$1" pin="B"/>
+<wire x1="142.24" y1="99.06" x2="152.4" y2="99.06" width="0.1524" layer="91"/>
+<label x="144.78" y="99.06" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -6422,9 +6422,9 @@ Source: &lt;a href="http://www.vishay.com/docs/83673/sfh618.pdf"&gt; Data sheet 
 <label x="226.06" y="147.32" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="Q4" gate="G$1" pin="B"/>
-<wire x1="142.24" y1="99.06" x2="152.4" y2="99.06" width="0.1524" layer="91"/>
-<label x="144.78" y="99.06" size="1.778" layer="95"/>
+<pinref part="R27" gate="G$1" pin="2"/>
+<wire x1="233.68" y1="96.52" x2="226.06" y2="96.52" width="0.1524" layer="91"/>
+<label x="226.06" y="96.52" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GPIO16" class="0">
